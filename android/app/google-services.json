@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "242255844421",
+    "project_id": "bridgette-social",
+    "storage_bucket": "bridgette-social.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:242255844421:android:e1f25e15620f673ee4bf2c",
+        "android_client_info": {
+          "package_name": "com.socialapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "242255844421-02ih8veo6r0ukfik7k841cfqgi5jnkiv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.socialapp",
+            "certificate_hash": "33586566ecb0358199642963716b22be4562a5fa"
+          }
+        },
+        {
+          "client_id": "242255844421-0fgbrm3mm3hnspk0moak05i68fr82g6o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGJATaqsz2t_jXM14nec2F8oUxTwiEBBU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "242255844421-0fgbrm3mm3hnspk0moak05i68fr82g6o.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "242255844421-oksj0r9trtrhh47bncqtlma17um77l6h.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.socialApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
